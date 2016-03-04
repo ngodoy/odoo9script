@@ -34,7 +34,7 @@ TODO: Write credits
 
 [QueesVagrant]: <https://codeandoando.com/que-es-vagrant-y-como-usarlo/>
 [alacretblogspot]: <http://alacret.blogspot.com/2015/03/postgresql-9x-creating-user-and.html/>
-[boxsh]: <https://github.com/ngodoy/odoo9script>	
+[boxsh]: <https://github.com/ngodoy/odoo9script/tree/master/vagrantboxsh>	
 ## License
 TODO: Write license
 
